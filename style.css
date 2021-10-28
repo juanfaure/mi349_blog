@@ -33,10 +33,13 @@ table{
 }
 
 article{
-    
+    line-height: normal;
 
 }
 
 ul{
     font-size: small;
+}
+label{
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
