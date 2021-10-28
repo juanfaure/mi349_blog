@@ -6,27 +6,26 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 50px;
     padding: 50px;
-
-}
-
-head{
-
-}
-
-p{
-
+    color: black;
+    border-top: 10px solid black;
+    border-bottom: 10px solid black;
+    background: #fff;
 }
 
 h1 {
-
+    font-size: 3em;
+    margin: 0;
 }
-
+p{
+    line-height: 1.4em;
+}
 h2{
-
+    font-size: 3em;
+    margin: 0;
 }
 
 table{
-
+    
 }
 .blog-post {
 
