@@ -43,3 +43,9 @@ ul{
 label{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+article{
+    background: #999;
+    padding: 20px;
+    margin: 20px;
+}
