@@ -1,6 +1,50 @@
-
-@media (max-width: 400px){
+html{
+    background: #e3e3e3;
+}
+@media(max-width: 400px){
   html{
-    background: red;
+    background:purple;
   }
 }
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 50px;
+    padding: 50px;
+    color: black;
+    border-top: 10px solid black;
+    border-bottom: 10px solid black;
+    background: #fff;
+}
+
+h1 {
+    font-size: 3em;
+    margin: 0;
+}
+p{
+    line-height: 1.4em;
+}
+h2{
+    font-size: 3em;
+    margin: 0;
+}
+
+table{
+    font-size: small;
+    
+}
+.blog-post {
+    line-height: 1.4em;
+}
+
+article{
+    line-height: normal;
+
+}
+
+ul{
+    font-size: small;
+}
+label{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
