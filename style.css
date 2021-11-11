@@ -45,7 +45,7 @@ label{
 }
 
 @media (max-width: 600px){
-  html{
+  body{
     background: red;
   }
 }
