@@ -44,8 +44,8 @@ label{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-@media (max-width: 400px) { 
-  html{ 
-    background: purple;
+@media (max-width: 600px){
+  html{
+    background: red;
   }
 }
