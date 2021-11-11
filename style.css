@@ -68,7 +68,7 @@ article:nth-of-type(2){
 }
 
 @media (max-width: 400px) { 
-  html{
-    background: blue;
-  }
+    body{
+      background: blue;
+    }
 }
